@@ -11,3 +11,5 @@ In general I like to seperate the model that is passed to the view (the ViewMode
 I created a second version of the LoginRegister view that demonstrates how this is done and it is my hope that any development would also be applicable to this second scenario as well.
 
 Thank you for taking the time to look into this.
+
+(p.s. also added two screenshots: Step1 & Step2)
